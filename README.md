@@ -1,7 +1,7 @@
 # Basic Gradient Descent 
 I learned how to code a program that gets me to the lowest point on a 2d line.
 
-This is the most basic form of gradient descent. Gradient descent is all about getting from a high place on a graph to a low place, while still following the curve of the line.
+This is the most basic form of gradient descent. Gradient descent is all about getting from a high place on a graph to a low place, while still following the curve of the line. this code has no parameters (m or b), and 1 feature.
 
 # Mountain Example
 
